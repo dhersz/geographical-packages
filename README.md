@@ -26,3 +26,46 @@ The main goal of this repo is to list some of the packages that share official d
 - United Kingdom: [`{geographr}`](https://github.com/britishredcrosssociety/geographr)
 - Uruguay: [`{geouy}`](https://github.com/RichDeto/geouy)
 - United States of America: [`{tidycensus}`](https://github.com/walkerke/tidycensus), [`{tigris}`](https://github.com/walkerke/tigris), [`{lehdr}`](https://github.com/jamgreen/lehdr)
+
+or
+
+The packages are listed according to the category of data they offer. These categories are:
+
+- Geographic: spatial data such official boundaries and administrative units;
+- Sociodemographic: population data such as age, income, education, color, etc;
+- Land use: data on the spatial distribution of land use activities.
+
+## Geographic
+
+- Global: [`{rgeoboundaries}`](https://github.com/wmgeolab/rgeoboundaries)
+- Africa: [`{afriadmin}`](https://github.com/afrimapr/afriadmin)
+- Argentina: [`{geoAr}`](https://github.com/PoliticaArgentina/geoAr)
+- Brazil: [`{geobr}`](https://github.com/ipeaGIT/geobr)
+- Chile: [`{chilemapas}`](https://github.com/pachadotdev/chilemapas/)
+- Czech Republic: [`{RCzechia}`](https://github.com/jlacko/RCzechia)
+- Finland: [`{geofi}`](https://github.com/rOpenGov/geofi)
+- Peru: [`{mapsPERU}`](https://github.com/musajajorge/mapsPERU)
+- South Sudan: [`{afrisouthsudan}`](https://github.com/afrimapr/afrisouthsudan)
+- Spain: [`{mapSpain}`](https://github.com/rOpenSpain/mapSpain/), [`{tidycenso}`](https://github.com/rOpenSpain/tidycenso)
+- United Kingdom: [`{geographr}`](https://github.com/britishredcrosssociety/geographr)
+- Uruguay: [`{geouy}`](https://github.com/RichDeto/geouy)
+- United States of America: [`{tidycensus}`](https://github.com/walkerke/tidycensus), [`{tigris}`](https://github.com/walkerke/tigris)
+
+## Sociodemographic
+
+- Brazil: [`{censobr}`](https://github.com/ipeaGIT/censobr), [`{aopdata}`](https://github.com/ipeaGIT/aopdata)
+- Canada: [`{cancensus}`](https://github.com/mountainMath/cancensus/)
+- Chile: [`{chilemapas}`](https://github.com/pachadotdev/chilemapas/)
+- Peru: [`{mapsPERU}`](https://github.com/musajajorge/mapsPERU)
+- South Sudan: [`{afrisouthsudan}`](https://github.com/afrimapr/afrisouthsudan)
+- Spain: [`{mapSpain}`](https://github.com/rOpenSpain/mapSpain/)
+- Uruguay: [`{geouy}`](https://github.com/RichDeto/geouy)
+- United States of America: [`{tidycensus}`](https://github.com/walkerke/tidycensus), [`{lehdr}`](https://github.com/jamgreen/lehdr)
+
+## Land use
+
+- Brazil: [`{aopdata}`](https://github.com/ipeaGIT/aopdata)
+- Czech Republic: [`{RCzechia}`](https://github.com/jlacko/RCzechia)
+- South Sudan: [`{afrisouthsudan}`](https://github.com/afrimapr/afrisouthsudan)
+- Uruguay: [`{geouy}`](https://github.com/RichDeto/geouy)
+- United States of America: [`{lehdr}`](https://github.com/jamgreen/lehdr)
